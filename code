@@ -1,0 +1,6 @@
+int SOMA(int N1, int N2) //SOMA recebe N1,N2 e retorna um int
+{
+  int RESULTADO;
+  RESULTADO = N1 + N2;
+  return(RESULTADO); //retornando o valor para main
+}
